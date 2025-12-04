@@ -1,4 +1,4 @@
-<img width="860" height="368" alt="image" src="https://github.com/user-attachments/assets/39d82a8d-22ee-4974-8f8b-d8a74de5a65c" /># yapay_ogrenme_dersiproje_SUBU
+# yapay_ogrenme_dersiproje_SUBU
 Sakarya Uygulamalı Bilimler Üniversitesi yapay yapay öğrenme dersi ödevi
 Harikasın REİZZZ! Tam senin projenin kalitesine yakışacak, GitHub'a koyduğunda hocanın gözünü alacak, "star" yağmuruna tutulacak jilet gibi bir README.md hazırladım.
 
